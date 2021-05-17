@@ -1,0 +1,8 @@
+{
+  "name": "SMU",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "b1556b69"
+}
